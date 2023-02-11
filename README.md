@@ -14,3 +14,5 @@ The purpose of this password generator is to allow the user to generate a passwo
 ![image](https://user-images.githubusercontent.com/122575280/218270379-cf55c51d-e781-4c69-ac36-51f8791600af.png)
 ![image](https://user-images.githubusercontent.com/122575280/218270396-1221f6fd-0785-407a-81aa-64e256d3ba0d.png)
 ## Deployment 
+Deployed site: https://jose-seg.github.io/Password-Generator-Refactor-/
+github repo: https://github.com/Jose-seg/Password-Generator-Refactor-
